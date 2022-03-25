@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{867C9F99-3781-4D33-9163-E1980D319343}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="appsettings.json">
+    <Files>
+      <File FileName="Controllers/TodosController.cs" Line="55" Column="10" />
+      <File FileName="Models/internsTodoContext.cs" />
+      <File FileName="Models/internsTodo.cs" />
+      <File FileName="Properties/launchSettings.json" />
+      <File FileName="Program.cs" />
+      <File FileName="Startup.cs" />
+      <File FileName="appsettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="internsfcsamericaTodoList" expanded="True">
+            <Node name="internsfcsamericaTodoList" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.internsfcsamericaTodoList PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
